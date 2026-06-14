@@ -1,0 +1,8 @@
+{
+"name":"HISAE",
+"short_name":"HISAE",
+"display":"standalone",
+"start_url":"./HISAE_iPhone13_16_PWA.html",
+"background_color":"#FFF8F0",
+"theme_color":"#FF9A8B"
+}
